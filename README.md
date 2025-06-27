@@ -1,4 +1,4 @@
-# Financial_Analysis
+# Automated-Financial-Trading-Strategy-System
 
 This project is an intelligent multi-agent system designed to analyze financial markets, generate trading strategies, evaluate execution plans, and assess risk using real-time data. It leverages the MERN ecosystem, Langchain, CrewAI, and advanced tools like Serper.dev and ScrapeWebsiteTool.
 
