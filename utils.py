@@ -1,7 +1,7 @@
 import os
 from dotenv import load_dotenv, find_dotenv
 
-                                                                                                                # the format for that file is (without the comment)                                                                                                                                       #API_KEYNAME=AStringThatIsTheLongAPIKeyFromSomeService
+                                                                                                                                                                                                                                                    #API_KEYNAME=AStringThatIsTheLongAPIKeyFromSomeService
 def load_env():
     _ = load_dotenv(find_dotenv())
 
