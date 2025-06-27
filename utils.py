@@ -16,8 +16,7 @@ def get_serper_api_key():
     return openai_api_key
 
 
-# break line every 80 characters if line is longer than 80 characters
-# don't break in the middle of a word
+# Break lines at 80 characters without cutting words
 def pretty_print_result(result):
   parsed_result = []
   for line in result.split('\n'):
